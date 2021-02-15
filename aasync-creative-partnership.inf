@@ -1,0 +1,6 @@
+FIRM='Custom'
+MODEL='CreativePartnership'
+PROTO='HTTPS'
+DESCR="HTTPS KeepAlive Custom Creative Partnership/QEN"
+MODULE='aasync-creative-partnership'
+PRIORITY='999'
