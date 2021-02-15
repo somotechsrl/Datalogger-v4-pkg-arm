@@ -1,4 +1,5 @@
 head|PRIORITY|MODULE|FIRM|MODEL|DESCR|PROTOCOL|MPATH|REQUIRES
+data|999|aasync-creative-partnership|Custom|CreativePartnership|HTTPS KeepAlive Custom Creative Partnership/QEN||iif/aasync/creative-partnership|
 data|000|aasync-enermanager-getcmd|Enermanager|GET-CMD|COMMANDS via HTTPS from Enermanager||iif/aasync/enermanager-getcmd|
 data|000|aasync-enermanager-sshvpn|Enermanager|SSH-VPN|SSH Based VPN via PPPD on HTTPS||iif/aasync/enermanager-sshvpn|
 data|000|aasync-modbus-sniffer|Modbus|Sniffer|Sniffer with Circular FIFO for Passive configuration||iif/aasync/mbsniffer|
