@@ -1,6 +1,6 @@
 FIRM='Custom'
-MODEL='DataSend Creative Partnership'
+MODEL='Last Data Creative Partnership'
 PROTO='HTTPS'
 DESCR="HTTPS Sync Custom Creative Partnership/QEN"
-MODULE='zzsync-creative-partnership'
+MODULE='zzsync-cpartnership-last'
 PRIORITY='999'
