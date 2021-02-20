@@ -1,5 +1,5 @@
 head|PRIORITY|MODULE|FIRM|MODEL|DESCR|PROTOCOL|MPATH|REQUIRES|AGGRESSIVE
-data|999|aasync-creative-partnership|Custom|CreativePartnership|HTTPS KeepAlive Custom Creative Partnership/QEN||iif/aasync/creative-partnership||true
+data|999|aasync-creative-partnership|Custom|KeepAlive Creative Partnership|HTTPS KeepAlive Custom Creative Partnership/QEN||iif/aasync/creative-partnership||true
 data|000|aasync-enermanager-getcmd|Enermanager|GET-CMD|COMMANDS via HTTPS from Enermanager||iif/aasync/enermanager-getcmd||true
 data|000|aasync-enermanager-sshvpn|Enermanager|SSH-VPN|SSH Based VPN via PPPD on HTTPS||iif/aasync/enermanager-sshvpn||true
 data|000|aasync-modbus-sniffer|Modbus|Sniffer|Sniffer with Circular FIFO for Passive configuration||iif/aasync/mbsniffer||true
@@ -100,9 +100,11 @@ data|050|tem-sb-16|TEM|SB-16|TEM SB-16 Stringbox||iif/tem/sb-16|modbus-default|t
 data|050|weidmuller-stringbox-16|Weidmuller|Stringbox|Weidmuller Stringbox 16||iif/weidmuller/stringbox-16|modbus-default|true
 data|050|weidmuller-stringbox|Weidmuller|Stringbox|Weidmuller Stringboxes||iif/weidmuller/stringbox|modbus-default|true
 data|050|xantrex-default|Xantrex|Xantrex|Xantrex Inverters||iif/xantrex/default|modbus-default|true
+data|999|yysync-cpartnership-aggr|Custom|Aggregated Creative Partnership|Aggregate Custom Creative Partnership/QEN||iif/yysync/cpartnership-aggr||true
+data|999|zzsync-cpartnership-last|Custom|Last Data Creative Partnership|HTTPS Sync Custom Creative Partnership/QEN||iif/yysync/cpartnership-last||true
 data|050|zucchetti-zcs-0140|Zucchetti|ZCS 1-40 kW|ZCS Azzurro Inverters 1 to 40kW||iif/zucchetti/zcs-0140|modbus-default|true
 data|050|zucchetti-zcs-5070|Zucchetti|ZCS 50-70 kW|ZCS Azzurro Inverters 150 to 70kW||iif/zucchetti/zcs-5070|modbus-default|true
-data|999|zzsync-creative-partnership|Custom|Creative Partnership|HTTPS Sync Custom Creative Partnership/QEN||iif/zzsync/creative-partnership||true
+data|999|zzsync-creative-partnership|Custom|DataSend Creative Partnership|HTTPS Sync Custom Creative Partnership/QEN||iif/zzsync/creative-partnership||true
 data|999|zzsync-enermanager-https|Enermanager|HTTPS2MQTT|HTTPS Sync via enermanager.it||iif/zzsync/enermanager-https||true
 data|999|zzsync-enermanager-mqtt|Enermanager|MQTTVPN|MQTT Sync via VPN||iif/zzsync/enermanager-mqtt||true
 data|999|zzsync-enermanager-rest|Enermanager|REST|MQTT Sync via REST/HTTPS||iif/zzsync/enermanager-rest||true
