@@ -1,0 +1,6 @@
+FIRM='Creative Partnership'
+MODEL='Last Data'
+PROTO='HTTPS'
+DESCR="HTTPS Sync Custom Creative Partnership/QEN"
+MODULE='zysync-cpartnership-last'
+PRIORITY='999'
