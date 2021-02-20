@@ -1,5 +1,5 @@
-FIRM='Custom'
-MODEL='Last Data Creative Partnership'
+FIRM='Creative Partnership'
+MODEL='Last Data'
 PROTO='HTTPS'
 DESCR="HTTPS Sync Custom Creative Partnership/QEN"
 MODULE='yysync-cpartnership-last'
