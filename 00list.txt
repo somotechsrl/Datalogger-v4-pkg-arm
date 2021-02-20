@@ -102,6 +102,7 @@ data|050|weidmuller-stringbox|Weidmuller|Stringbox|Weidmuller Stringboxes||iif/w
 data|050|xantrex-default|Xantrex|Xantrex|Xantrex Inverters||iif/xantrex/default|modbus-default|true
 data|050|zucchetti-zcs-0140|Zucchetti|ZCS 1-40 kW|ZCS Azzurro Inverters 1 to 40kW||iif/zucchetti/zcs-0140|modbus-default|true
 data|050|zucchetti-zcs-5070|Zucchetti|ZCS 50-70 kW|ZCS Azzurro Inverters 150 to 70kW||iif/zucchetti/zcs-5070|modbus-default|true
+data|999|zzsync-creative-partnership|Custom|Creative Partnership|HTTPS Sync Custom Creative Partnership/QEN||iif/zzsync/creative-partnership||true
 data|999|zzsync-enermanager-https|Enermanager|HTTPS2MQTT|HTTPS Sync via enermanager.it||iif/zzsync/enermanager-https||true
 data|999|zzsync-enermanager-mqtt|Enermanager|MQTTVPN|MQTT Sync via VPN||iif/zzsync/enermanager-mqtt||true
 data|999|zzsync-enermanager-rest|Enermanager|REST|MQTT Sync via REST/HTTPS||iif/zzsync/enermanager-rest||true
@@ -112,4 +113,3 @@ data|999|zzsync-mqtt|Enermanager|MQTT|Sync via plain MQTT||iif/zzsync/mqtt||true
 data|999|zzsync-mqtts|Enermanager|MQTTS|Sync via secure MQTT||iif/zzsync/mqtts||true
 data|999|zzsync-http-resiot|ResIOT|RestAPI|HTTPS Sync to ResIOT||iif/zzsync/resiot-https||true
 data|999|zzsync-zzalarms-mail-notify|Generico|ZZAlarm|Generatore allarmi e-mail su condizioni||iif/zzsync/zzalarms||true
-data|999|zzsync-zzz-creative-partnership|Custom|CreativePartnership|HTTPS Sync Custom Creative Partnership/QEN||iif/zzsync/zzz-creative-parntership||true
