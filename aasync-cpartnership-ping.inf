@@ -1,0 +1,6 @@
+FIRM='Creative Partnership'
+MODEL='KeepAlive'
+PROTO='HTTPS'
+DESCR="HTTPS KeepAlive Creative Partnership/QEN"
+MODULE='aasync-cpartnership-ping'
+PRIORITY='999'
