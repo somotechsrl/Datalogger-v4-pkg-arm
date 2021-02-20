@@ -1,6 +1,0 @@
-FIRM='Custom'
-MODEL='Last Data Creative Partnership'
-PROTO='HTTPS'
-DESCR="HTTPS Sync Custom Creative Partnership/QEN"
-MODULE='yysync-cpartnership-last'
-PRIORITY='999'
