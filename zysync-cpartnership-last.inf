@@ -1,5 +1,5 @@
-FIRM='Creative Partnership'
-MODEL='Last Data'
+FIRM='QEn'
+MODEL='Last Sent Data'
 PROTO='HTTPS'
 DESCR="HTTPS Sync Custom Creative Partnership/QEN"
 MODULE='zysync-cpartnership-last'
