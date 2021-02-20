@@ -1,5 +1,5 @@
 FIRM='Creative Partnership'
-MODEL='Aggregated Aggressive Data'
+MODEL='Aggressive Data'
 PROTO='HTTPS'
 DESCR="Aggregate Custom Creative Partnership/QEN"
 MODULE='zysync-cpartnership-aggr'
