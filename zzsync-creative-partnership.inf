@@ -1,0 +1,6 @@
+FIRM='Custom'
+MODEL='Creative Partnership'
+PROTO='HTTPS'
+DESCR="HTTPS Sync Custom Creative Partnership/QEN"
+MODULE='zzsync-creative-partnership'
+PRIORITY='999'
