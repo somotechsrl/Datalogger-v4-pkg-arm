@@ -1,6 +1,0 @@
-FIRM='Creative Partnership'
-MODEL='Aggregated Aggressive Data'
-PROTO='HTTPS'
-DESCR="Aggregate Custom Creative Partnership/QEN"
-MODULE='yysync-cpartnership-aggr'
-PRIORITY='999'
