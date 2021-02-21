@@ -1,0 +1,7 @@
+FIRM='QEn'
+MODEL='Full Sent Data'
+PROTO='HTTPS'
+DESCR="Aggregate Custom Creative Partnership/QEN"
+MODULE='zysync-cpartnership-interval'
+PRIORITY='999'
+REQUIRES=zysync-aggregator-interval
