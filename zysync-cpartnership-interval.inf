@@ -1,5 +1,5 @@
 FIRM='QEn'
-MODEL='Full Sent Data'
+MODEL='Send Cumulate Interval Data Read'
 PROTO='HTTPS'
 DESCR="Aggregate Custom Creative Partnership/QEN"
 MODULE='zysync-cpartnership-interval'
