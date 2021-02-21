@@ -104,8 +104,8 @@ data|050|zucchetti-zcs-0140|Zucchetti|ZCS 1-40 kW|ZCS Azzurro Inverters 1 to 40k
 data|050|zucchetti-zcs-5070|Zucchetti|ZCS 50-70 kW|ZCS Azzurro Inverters 150 to 70kW||iif/zucchetti/zcs-5070|modbus-default|true
 data|999|zysync-aggregator-interval|Json|Period Data Aggregator|Aggregate Data Between Poll Intervals||iif/zysync/aggregator-interval||true
 data|999|zysync-aggregator-lastread|Json|Last Data Aggregator|Aggregate Last Data||iif/zysync/aggregator-lastread||true
-data|999|zysync-cpartnership-aggr|QEn|Full Sent Data|Aggregate Custom Creative Partnership/QEN||iif/zysync/cpartnership-aggr|zysync-aggregator-interval|true
-data|999|zysync-cpartnership-last|QEn|Last Sent Data|HTTPS Sync Custom Creative Partnership/QEN||iif/zysync/cpartnership-last|zysync-aggregator-lastread|true
+data|999|zysync-cpartnership-interval|QEn|Full Sent Data|Aggregate Custom Creative Partnership/QEN||iif/zysync/cpartnership-interval|zysync-aggregator-interval|true
+data|999|zysync-cpartnership-lastread|QEn|Last Sent Data|HTTPS Sync Custom Creative Partnership/QEN||iif/zysync/cpartnership-lastread|zysync-aggregator-lastread|true
 data|999|zzsync-enermanager-https|Enermanager|HTTPS2MQTT|HTTPS Sync via enermanager.it||iif/zzsync/enermanager-https||true
 data|999|zzsync-enermanager-mqtt|Enermanager|MQTTVPN|MQTT Sync via VPN||iif/zzsync/enermanager-mqtt||true
 data|999|zzsync-enermanager-rest|Enermanager|REST|MQTT Sync via REST/HTTPS||iif/zzsync/enermanager-rest||true
