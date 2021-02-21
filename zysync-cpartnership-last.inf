@@ -4,3 +4,4 @@ PROTO='HTTPS'
 DESCR="HTTPS Sync Custom Creative Partnership/QEN"
 MODULE='zysync-cpartnership-last'
 PRIORITY='999'
+REQUIRES=zysync-aggregator-lastread

@@ -67,7 +67,7 @@ data|050|kernel-st21625|Kernel|ST21625|Kernel ST2 1625 Stringbox||iif/kernel/st2
 data|050|MBus-default|Generico|M-Bus|Interfaccia via RS232/TTL ||iif/mbus/default||true
 data|050|modbus-cmd|Modbus|CMD|Modbus Base CMD Wrapper||iif/modbus/cmd||true
 data|050|modbus-custom|Modbus|Custom|Modbus Parametrized Driver via config||iif/modbus/custom||true
-data|050|modbus-default|Modbus|default|Modbus Base Query Wrapper||iif/modbus/default||true
+data|050|modbus-default|Modbus|Default|Modbus Base Query Wrapper||iif/modbus/default||true
 data|050|modbus-poll|Modbus|Poll|Modbus Aggressive Poll Wrapper||iif/modbus/poll||true
 data|050|netserial-default|Generico|NetSerial|COnnettore TCP per porta seriale||iif/netserial/default||true
 data|050|omron-default|Omron|Inverter|Omron Inverters||iif/omron/default|modbus-default|true
@@ -102,8 +102,10 @@ data|050|weidmuller-stringbox|Weidmuller|Stringbox|Weidmuller Stringboxes||iif/w
 data|050|xantrex-default|Xantrex|Xantrex|Xantrex Inverters||iif/xantrex/default|modbus-default|true
 data|050|zucchetti-zcs-0140|Zucchetti|ZCS 1-40 kW|ZCS Azzurro Inverters 1 to 40kW||iif/zucchetti/zcs-0140|modbus-default|true
 data|050|zucchetti-zcs-5070|Zucchetti|ZCS 50-70 kW|ZCS Azzurro Inverters 150 to 70kW||iif/zucchetti/zcs-5070|modbus-default|true
-data|999|zysync-cpartnership-aggr|QEn|Full Sent Data|Aggregate Custom Creative Partnership/QEN||iif/zysync/cpartnership-aggr||true
-data|999|zysync-cpartnership-last|QEn|Last Sent Data|HTTPS Sync Custom Creative Partnership/QEN||iif/zysync/cpartnership-last||true
+data|999|zysync-cpartnership-aggr|QEn|Full Sent Data|Aggregate Custom Creative Partnership/QEN||iif/zysync/aggregator-interval||true
+data|999|zysync-cpartnership-last|QEn|Last Sent Data|HTTPS Sync Custom Creative Partnership/QEN||iif/zysync/aggregator-lastread||true
+data|999|zysync-cpartnership-aggr|QEn|Full Sent Data|Aggregate Custom Creative Partnership/QEN||iif/zysync/cpartnership-aggr|zysync-aggregator-interval|true
+data|999|zysync-cpartnership-last|QEn|Last Sent Data|HTTPS Sync Custom Creative Partnership/QEN||iif/zysync/cpartnership-last|zysync-aggregator-lastread|true
 data|999|zzsync-enermanager-https|Enermanager|HTTPS2MQTT|HTTPS Sync via enermanager.it||iif/zzsync/enermanager-https||true
 data|999|zzsync-enermanager-mqtt|Enermanager|MQTTVPN|MQTT Sync via VPN||iif/zzsync/enermanager-mqtt||true
 data|999|zzsync-enermanager-rest|Enermanager|REST|MQTT Sync via REST/HTTPS||iif/zzsync/enermanager-rest||true
