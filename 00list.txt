@@ -71,6 +71,7 @@ data|050|modbus-default|Modbus|Default|Modbus Base Query Wrapper||iif/modbus/def
 data|050|modbus-poll|Modbus|Poll|Modbus Aggressive Poll Wrapper||iif/modbus/poll||true
 data|050|netserial-default|Generico|NetSerial|COnnettore TCP per porta seriale||iif/netserial/default||true
 data|050|omron-default|Omron|Inverter|Omron Inverters||iif/omron/default|modbus-default|true
+data|050|qen-emu-3ea|QEn|EMU-3EA|QEN QE EMU 3EA||iif/qen/emu-3ea|modbus-default|true
 data|050|qen-qe|QEn|QE|QEN QE System||iif/qen/qe|modbus-default|true
 data|050|raspi-backup|Raspberry|Backup|Datalogger Config Backup||iif/raspi/backup||true
 data|050|raspi|Raspberry|Diagnostic|Datalogger Disagnostics||iif/raspi/default||false
