@@ -71,6 +71,7 @@ data|050|modbus-default|Modbus|Default|Modbus Base Query Wrapper||iif/modbus/def
 data|050|modbus-poll|Modbus|Poll|Modbus Aggressive Poll Wrapper||iif/modbus/poll||true
 data|050|netserial-default|Generico|NetSerial|COnnettore TCP per porta seriale||iif/netserial/default||true
 data|050|omron-default|Omron|Inverter|Omron Inverters||iif/omron/default|modbus-default|true
+data|050|qen-emu-3ea|QEn|EMU-3EA|QEN QE EMU 3EA||iif/qen/emu-2it|modbus-default|true
 data|050|qen-emu-3ea|QEn|EMU-3EA|QEN QE EMU 3EA||iif/qen/emu-3ea|modbus-default|true
 data|050|qen-qe|QEn|QE|QEN QE System||iif/qen/qe|modbus-default|true
 data|050|raspi-backup|Raspberry|Backup|Datalogger Config Backup||iif/raspi/backup||true
@@ -108,7 +109,7 @@ data|999|zysync-aggregator-lastread|Json|Last Data Aggregator|Aggregate Last Dat
 data|999|zysync-cpartnership-interval|QEn|Send Cumulate Interval Data Read|Aggregate Custom Creative Partnership/QEN||iif/zysync/cpartnership-interval||true
 data|999|zysync-cpartnership-lastread|QEn|Send Last Data Read|HTTPS Sync Custom Creative Partnership/QEN||iif/zysync/cpartnership-lastread||true
 data|999|zzsync-enermanager-https|Enermanager|HTTPS2MQTT|HTTPS Sync via enermanager.it||iif/zzsync/enermanager-https||true
-data|999|zzsync-enermanager-mqtt|Enermanager|MQTTVPN|MQTT Sync via VPN||iif/zzsync/enermanager-mqtt||true
+data|999|zzsync-enermanager-mqtt|Enermanager|MQTTVPN|MQTT Sync to Somotech HUB||iif/zzsync/enermanager-mqtt||true
 data|999|zzsync-enermanager-rest|Enermanager|REST|MQTT Sync via REST/HTTPS||iif/zzsync/enermanager-rest||true
 data|999|zzsync-sync-ftp|Enermanager|FTP|Sync via FTP||iif/zzsync/ftp||true
 data|999|zzsync-localdb-export|Enermanager|LocalDB Export|Export LocalDB (CSV/XLS)||iif/zzsync/localdb-export||true
