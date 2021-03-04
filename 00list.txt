@@ -62,6 +62,7 @@ data|050|ingburo-sirs485|IngBuro|Si-RS485|IngBuro Si RS485 Irradiance Sensor||ii
 data|050|ingecon-sunxxtl|Ingecon|SunXXTL|Ingecon SunXXTL Invereters||iif/ingecon/sunxxtl|modbus-default|true
 data|050|ingeteam-sunpower|Ingeteam|Sunpower|Ingeteam Sunpower Inverters||iif/ingeteam/sunpower|modbus-default|true
 data|050|ingeteam-sunstring|Ingeteam|IngeCon SunString|Ingeteam Ingecon SunString Control||iif/ingeteam/sunstring|modbus-default|true
+data|050|itron-sl7000|Itron|SL7000|ELECTRICAL METER||iif/itron/sl7000||true
 data|050|kako-ppl|KAKO|PPL Datalogger|KAKO PPL Datalogger||iif/kako/ppl||true
 data|050|kernel-st1|Kernel|ST1|Kernel ST1 Stringbox||iif/kernel/st1|modbus-default|true
 data|050|kernel-st21625|Kernel|ST21625|Kernel ST2 1625 Stringbox||iif/kernel/st21625|modbus-default|true
