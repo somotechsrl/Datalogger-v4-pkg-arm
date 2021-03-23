@@ -32,6 +32,7 @@ data|050|contrel-ems-96|Contrel|EMS-96|ELECTRICAL MEASUREMENT SUPERVISOR EMS-96|
 data|050|contrel-ems-96-pulse|Contrel|EMS-96-PULSE|ELECTRICAL MEASUREMENT SUPERVISOR EMS-96 PULSE ONLY||iif/contrel/ems-96-pulse|modbus-default|true
 data|050|contrel-ems|Contrel|EMS|ELECTRICAL MEASUREMENT SUPERVISOR||iif/contrel/ems|modbus-default|true
 data|050|contrel-ems-time|Contrel|EMS|RTC System Time Source from EMS||iif/contrel/ems-time|modbus-default|true
+data|050|contrel-emu-8it|Contrel|EMU-8it|Temperature Transducer||iif/contrel/emu-2it|modbus-default|true
 data|050|contrel-emu-8di|Contrel|EMU-8di|Transducer||iif/contrel/emu-8di|modbus-default|true
 data|050|contrel-isobase|Contrel|ISOBASE|ISOBASE RTX poller ||iif/contrel/isobase|modbus-default|true
 data|050|contrel-isobase-redis|Contrel|ISOBASE|ISOBASE RTX poller bnas on Redis DB||iif/contrel/isobase-redis||true
@@ -114,6 +115,7 @@ data|999|zzsync-enermanager-https|Enermanager|HTTPS2MQTT|HTTPS Sync via enermana
 data|999|zzsync-enermanager-mqtt|Enermanager|MQTTVPN|MQTT Sync to Somotech HUB||iif/zzsync/enermanager-mqtt||true
 data|999|zzsync-enermanager-rest|Enermanager|REST|MQTT Sync via REST/HTTPS||iif/zzsync/enermanager-rest||true
 data|999|zzsync-sync-ftp|Enermanager|FTP|Sync via FTP||iif/zzsync/ftp||true
+data|999|zzsync-local-api-mqtt|local|api|MQTT local api publish (v4/lastdata)||iif/zzsync/local-api-mqtt||true
 data|999|zzsync-localdb-export|Enermanager|LocalDB Export|Export LocalDB (CSV/XLS)||iif/zzsync/localdb-export||true
 data|999|zzsync-localdb-save|Enermanager|LocalDB Save|Save to local DB||iif/zzsync/localdb-save||true
 data|999|zzsync-mqtt|Enermanager|MQTT|Sync via plain MQTT||iif/zzsync/mqtt||true
