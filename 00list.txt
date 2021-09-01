@@ -101,6 +101,7 @@ data|050|sunaway-tgxx|Sunaway|TGXX|Sunaway TGXX Inverters||iif/sunaway/tgxx|modb
 data|050|sunguard-sensor|Sunguard|Sensor|Sunguard Sensor Box||iif/sunguard/sensor|modbus-default|true
 data|050|sunguard-stringbox|Sunguard|Stringbox|Sunguard Stringbox||iif/sunguard/stringbox|modbus-default|true
 data|050|sunmeter-default|Sunmeter|Sunmeter|Sunmeter Solarimeter||iif/sunmeter/default|modbus-default|true
+data|050|szyft-sht20|SZYFT|SHT20|RS485 Tempereture/Humidity Sensor||iif/szytf/sht20|modbus-default|true
 data|050|tecnint-ems-sau-mbs|Tecnint|EMS-SAU-MBS|Tecnint EMS Stringbox||iif/tecnint/ems-sau-mbs|modbus-default|true
 data|000|a-teltonika-router|Teltonika|RUTXXX|SIM ID Traffic Stats Monitoring||iif/teltonika/RUTXXX||true
 data|050|tem-sb-16|TEM|SB-16|TEM SB-16 Stringbox||iif/tem/sb-16|modbus-default|true
