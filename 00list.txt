@@ -53,6 +53,8 @@ data|050|friem-recon-std|Friem|Recon STD|Friem Recon Modbus via RS232||iif/friem
 data|050|fronius-default|Fronius|Fronius|Direct access via Fronius Proto||iif/fronius/default||true
 data|050|fronius-dm|Fronius|Datamanager (Modbus)|Datamanager Board via Modbus||iif/fronius/dm|modbus-default|true
 data|050|fronius-web|Fronius|Datamanager (JSON)|Datamanager Board via REST HTTP||iif/fronius/web||true
+data|000|fruit-player|Modbus|player|X Player for Video||iif/fruit/player||true
+data|000|fruit-sync|Fruit|sync|Sync modulef for Video||iif/fruit/sync||true
 data|050|gavazzi-wm3-96|Gavazzi|WM3-96|3P Network Analyzer||iif/gavazzi/wm3-96|modbus-default|true
 data|050|huawei-default|HUAWEI|Inverters|HUAWEI Inverters||iif/huawei/default|modbus-default|true
 data|050|icstation-icse012A|ICStation|ICSE012A|Modulo di comando a 4 Relay||iif/icstation/icse012A||true
@@ -125,4 +127,5 @@ data|999|zzsync-localdb-save|Enermanager|LocalDB Save|Save to local DB||iif/zzsy
 data|999|zzsync-mqtt|Enermanager|MQTT|Sync via plain MQTT||iif/zzsync/mqtt||true
 data|999|zzsync-mqtts|Enermanager|MQTTS|Sync via secure MQTT||iif/zzsync/mqtts||true
 data|999|zzsync-http-resiot|ResIOT|RestAPI|HTTPS Sync to ResIOT||iif/zzsync/resiot-https||true
+data|999|zzsync-enermanager-mqtt|Enermanager|MQTTVPN|MQTT Sync to Somotech HUB||iif/zzsync/vlc-kiosk||true
 data|999|zzsync-zzalarms-mail-notify|Generico|ZZAlarm|Generatore allarmi e-mail su condizioni||iif/zzsync/zzalarms||true
