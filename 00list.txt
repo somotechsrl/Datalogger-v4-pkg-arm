@@ -127,5 +127,4 @@ data|999|zzsync-localdb-save|Enermanager|LocalDB Save|Save to local DB||iif/zzsy
 data|999|zzsync-mqtt|Enermanager|MQTT|Sync via plain MQTT||iif/zzsync/mqtt||true
 data|999|zzsync-mqtts|Enermanager|MQTTS|Sync via secure MQTT||iif/zzsync/mqtts||true
 data|999|zzsync-http-resiot|ResIOT|RestAPI|HTTPS Sync to ResIOT||iif/zzsync/resiot-https||true
-data|999|zzsync-enermanager-mqtt|Enermanager|MQTTVPN|MQTT Sync to Somotech HUB||iif/zzsync/vlc-kiosk||true
 data|999|zzsync-zzalarms-mail-notify|Generico|ZZAlarm|Generatore allarmi e-mail su condizioni||iif/zzsync/zzalarms||true
