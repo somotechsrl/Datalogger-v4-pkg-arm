@@ -102,7 +102,7 @@ data|050|solaredge-sunspec|Solardge|Sunspec|Solaredge Suspec Registers||iif/sola
 data|050|solarmax2-default|Solarmax|Solarmax2|||iif/solarmax2/default||true
 data|050|solarmax-default|Solarmax|Solarmax1|||iif/solarmax/default||true
 data|050|sunaway-tgxx|Sunaway|TGXX|Sunaway TGXX Inverters||iif/sunaway/tgxx|modbus-default|true
-data|050|sungrow-default|Sungrow|Sungrow Inverter Modbus|Sungrow TLK Inverters||iif/sungrow/default|modbus-defaul|true
+data|050|sungrow-default|Sungrow|Sungrow Inverter Modbus|Sungrow TLK Inverters||iif/sungrow/default|modbus-default|true
 data|050|sunguard-sensor|Sunguard|Sensor|Sunguard Sensor Box||iif/sunguard/sensor|modbus-default|true
 data|050|sunguard-stringbox|Sunguard|Stringbox|Sunguard Stringbox||iif/sunguard/stringbox|modbus-default|true
 data|050|sunmeter-default|Sunmeter|Sunmeter|Sunmeter Solarimeter||iif/sunmeter/default|modbus-default|true
