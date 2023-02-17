@@ -85,7 +85,7 @@ data|050|raspi-backup|Raspberry|Backup|Datalogger Config Backup||iif/raspi/backu
 data|050|raspi|Raspberry|Diagnostic|Datalogger Disagnostics||iif/raspi/default||false
 data|050|refusol-default|Refusol|Inverters|Refusol Inverters||iif/refusol/default||true
 data|050|renu-gwy00b|RENU|gwy00b|RENU Gateway Interface||iif/renu/gwy00b|modbus-default|true
-data|050|solis-lan|Samil|Inverters|Samil Inverters via solis python script LAN/mqtt||iif/samil/lan||true
+data|050|samil-lan|Samil|Inverters|Samil Inverters via solis python script LAN/mqtt||iif/samil/lan||true
 data|050|schuco-ipe|Schuco|IPEXX|Schuo IPEXX Inverters||iif/schuco/ipe|modbus-default|true
 data|050|seneca-s604|Seneca|S604|ELECTRICAL MEASUREMENT||iif/seneca/s604|modbus-default|true
 data|050|seneca-z4ai|Seneca|Z4AI|Seneca Z4AI Gateway Interface||iif/seneca/z4ai|modbus-default|true
