@@ -56,6 +56,8 @@ data|050|fronius-web|Fronius|Datamanager (JSON)|Datamanager Board via REST HTTP|
 data|000|fruit-player|Modbus|player|X Player for Video||iif/fruit/player||true
 data|000|fruit-sync|Fruit|sync|Sync modulef for Video||iif/fruit/sync||true
 data|050|gavazzi-wm3-96|Gavazzi|WM3-96|3P Network Analyzer||iif/gavazzi/wm3-96|modbus-default|true
+data|050|huawei-default-2019|HUAWEI|Inverters|HUAWEI Inverters||iif/huawei/default-2019|modbus-default|true
+data|050|huawei-default-2023|HUAWEI|Inverters|HUAWEI Inverters||iif/huawei/default-2023|modbus-default|true
 data|050|huawei-default|HUAWEI|Inverters|HUAWEI Inverters||iif/huawei/default|modbus-default|true
 data|050|huawei-sunspec|HUAWEI|Inverters|HUAWEI Inverters Sunspec||iif/huawei/sunspec|modbus-default|true
 data|050|icstation-icse012A|ICStation|ICSE012A|Modulo di comando a 4 Relay||iif/icstation/icse012A||true
